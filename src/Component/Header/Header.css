@@ -1,0 +1,20 @@
+
+.navbar{
+    display: flex;
+    width: 85%;
+    text-align: center;
+    margin: 0 auto;
+    /* padding: 20px; */
+    
+}
+.navbar-nav a{
+    margin: 0 20px;
+    text-decoration: none;
+    
+   
+}
+.navbar-nav a:hover{
+    background-color: #F9A51A;
+    border-radius: 5px;
+    
+}

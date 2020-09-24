@@ -1,0 +1,92 @@
+* {
+	box-sizing: border-box;
+}
+.form-container{
+    background-color: #fff;
+	border-radius: 5px;
+	overflow: hidden;
+	align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.form-container-box{
+    margin: auto;
+    width: 40%;
+    border: 1px solid #ABABAB;
+    height: auto;
+    
+}
+.reg-form{
+    /* border: 1px solid black; */
+    text-align: center;
+    box-sizing: 1px solid black;
+    align-items: center;
+    justify-content: center; 
+    /* padding: 10px 20px;	 */
+}
+.reg-input{
+    border: none;
+    border-bottom: 1px solid black;
+    line-height: 32px;
+    width: 75%;
+    font-size: 16px;
+    margin: 10px 0;
+}
+.submit-btn{
+    border: none;
+    line-height: 50px;
+    width: 75%;
+    font-size: 16px;
+    margin: 10px 0;
+    background-color: #F9A51A;
+    border-radius: 5px;
+}
+.reg-btn{
+    border: none;
+    color:#F9A51A ;
+    background-color: white;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 10px 0;
+    
+}
+
+.btn{
+    /* width: 75%; */
+    border: 1px solid #C7C7C7;
+    border-radius: 57px;
+    display: flex;
+    width: 35%;
+    /* text-align: center; */
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    /* border-radius: 57px; */
+}
+.icon img{
+    height: 37px;
+    width: 37px;
+}
+.icon{
+    margin: initial;
+}
+.div1 span:before{
+    content: " ";
+    height: 1px;
+    width:13%;
+    background-color: #AAAAAA;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.div1 span:after{
+    content: " ";
+    height: 1px;
+    width:13%;
+    background-color: #AAAAAA;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.div1{
+    margin: 15px 0;
+}

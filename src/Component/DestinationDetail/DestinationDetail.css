@@ -1,0 +1,41 @@
+
+.destination-row{
+    
+    margin: 20px
+}
+.destination-form{
+    padding:10px;
+    background-color:#FFFFFF;
+    border-radius: 5px;
+}
+.booking-btn-hotel{
+    
+    
+    
+    
+}
+.form-grp .label{
+    color: #818181;
+    font-size: 16px;
+}
+.form-grp .input{
+    background-color: #F2F2F2;
+    color: #F2F2F2;
+    font-weight: bold;
+    font-size: 16px;
+    height: 60px;
+    color:black;
+    font-weight:bold;
+}
+.form-grp{
+    margin: 10px;
+}
+.destination-text h1{
+    font-size: 52.68px;
+    font-weight: bold;
+    width: 70%;
+}
+.destination-text p{
+    font-size: 16px;
+    width: 70%;
+}

@@ -1,0 +1,30 @@
+.background{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../images/Rectangle-1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;
+    min-height: 650px;
+    max-height: auto;
+    width: 100%;
+    margin: auto;
+    margin-top: auto;
+    
+}
+.card-style:hover{
+        overflow: hidden;
+        outline: 3px solid orange;
+        /* border-radius: 20px; */
+      
+}
+
+.carousel-style{
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+   
+}
+.card-style{
+    /* width: 21rem;  */
+    margin-top:150px;
+    
+}
