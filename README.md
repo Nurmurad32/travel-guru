@@ -1,5 +1,30 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**Website Link:** [Travel Guru](https://travel-guru-1a502.web.app/).
+
+## Used Technologies:
+1. HTML
+2. CSS
+3. React js
+4. Bootstrap
+5. Javascript
+6. Firebase
+7. React Google map
+
+## Dependencies:
+1. bootstrap
+2. firebase
+3. google-map-react
+4. google-maps-react
+5. react
+6. react-animated-slider
+7. react-bootstrap
+8. react-dom
+9. react-hook-form
+10. react-places-autocomplete
+11. react-router-dom
+12. react-scripts
+
 ## Available Scripts
 
 In the project directory, you can run:
