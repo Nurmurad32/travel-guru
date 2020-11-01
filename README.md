@@ -1,6 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 **Website Link:** [Travel Guru](https://travel-guru-1a502.web.app/).
+
+## Description:
+This is a traveling agency resort booking type website.
+• A different view for different place clicks.
+• Calendar option on semi-place confirmation page.
+• Hotel suggestions on final confirmation page with google map.
+• Fully Responsive with sign-in/up feature.
+
 
 ## Used Technologies:
 1. HTML
@@ -10,6 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 5. Javascript
 6. Firebase
 7. React Google map
+
 
 ## Dependencies:
 1. bootstrap
